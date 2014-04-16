@@ -84,7 +84,7 @@ end
 ````
 
 ## Contributing
-1. Fork it
+1. Fork it hello
 2. Create your feature branch (`git checkout -b my-new-feature`)
 3. Commit your changes (`git commit -am 'Add some feature'`)
 4. Push to the branch (`git push origin my-new-feature`)
@@ -95,6 +95,8 @@ end
 - Improve `start()` to ask for your shopify API details and write them to config.yml
 
 ## Author
+[Project Homepage](http://dannysmith.github.io/guard-shopifytheme)
+
 - Danny Smith ([@dannysmith](http://github.com/dannysmith))
 - Shopfy_Theme by Shopify ([@shopify](https://github.com/Shopify))
 
